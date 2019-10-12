@@ -27,7 +27,7 @@ INSTALAMOS PHP y GIT para ejecutar el archivo q esta en la carpeta de NetflixChk
 
 3. pkg install php git -y
 
-4. git clone https://github.com/Juni0r007/NetflixChk.git
+4. git clone  https://github.com/Franklin-Mrx/Netflix-Chk.git
 
 5. ls
 
